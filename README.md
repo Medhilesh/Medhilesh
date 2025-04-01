@@ -11,10 +11,10 @@
 ### 👨‍💻 About Me:
 
 - 🔭 I’m currently working on **[Event_Booking](https://github.com/Medhilesh/Event_booking.git)**
-- 🌱 Learning & Exploring **MERN Stack | Data Structures & Algorithms**
+- 🌱 Learning **Java** and **Web Development (MERN Stack)**
 - 👨‍💻 My projects are available on **[GitHub](https://github.com/Medhilesh?tab=repositories)**
-- 📫 Reach me at -**anthatimedhilesh@gmail.com**
-                  -**https://www.linkedin.com/in/medhileshanthati/**
+- 📫 Reach me at **anthatimedhilesh@gmail.com**
+
 ---
 
 ### 🛠️ Tech Stack & Tools:
@@ -72,7 +72,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Medhilesh&show_icons=true&theme=tokyonight" width="50%" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Medhilesh&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medhilesh&theme=tokyonight" width="50%" />
 </p>
 
 ---
