@@ -1,20 +1,85 @@
-<h1 align="center">Hi 👋, I'm Medhilesh Goud Anthati</h1>
-<h3 align="center">A passionate FullStack developer</h3>
+### <h1 align="center">Hi 👋, I'm Medhilesh Goud Anthati</h1>
 
-- 🔭 I’m currently working on [Event_Booking](https://github.com/Medhilesh/Event_booking.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Medhilesh?tab=repositories](https://github.com/Medhilesh?tab=repositories)
-
-- 📫 How to reach me **anthatimedhilesh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/medhilesh anthati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medhilesh anthati" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/medhilesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="medhilesh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/medhilesh anthati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="medhilesh anthati" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/medhilesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="medhilesh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@medhilesh anthati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@medhilesh anthati" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h3 align="center">🚀 A Passionate Full-Stack Developer & Problem Solver</h3>
+
+---
+
+### 👨‍💻 About Me:
+
+- 🔭 I’m currently working on **[Event_Booking](https://github.com/Medhilesh/Event_booking.git)**
+- 🌱 Learning & Exploring **MERN Stack | Data Structures & Algorithms**
+- 👨‍💻 My projects are available on **[GitHub](https://github.com/Medhilesh?tab=repositories)**
+- 📫 Reach me at **anthatimedhilesh@gmail.com**
+
+---
+
+### 🛠️ Tech Stack & Tools:
+
+#### 🚀 Programming & Markup Languages:
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+#### 💻 Frameworks & Libraries:
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+#### 🛠️ Development Tools:
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🌐 Connect with Me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/medhilesh-anthati" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.codechef.com/users/medhilesh" target="_blank">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/medhilesh" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.leetcode.com/medhilesh" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerearth.com/@medhilesh-anthati" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerEarth-323754?style=flat-square&logo=hackerearth&logoColor=white" alt="HackerEarth" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Medhilesh&show_icons=true&theme=tokyonight" width="50%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medhilesh&theme=tokyonight" width="50%" />
+</p>
+
+---
+
+### 🚀 Fun Fact:
+🧐 You’re here because you’re awesome, and so am I for coding every day! 😆🚀
+
+---
+
+**✨ Keep Coding & Keep Growing! ✨**
