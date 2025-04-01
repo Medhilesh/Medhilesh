@@ -71,7 +71,7 @@ Check out my GitHub profile to see my activity and contributions:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Medhilesh&show_icons=true&theme=tokyonight" width="50%" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medhilesh&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Medhilesh&show_icons=true&count_private=true&theme=radical" width="50%" />
 </p>
 
 ---
