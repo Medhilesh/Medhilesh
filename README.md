@@ -13,8 +13,8 @@
 - 🔭 I’m currently working on **[Event_Booking](https://github.com/Medhilesh/Event_booking.git)**
 - 🌱 Learning & Exploring **MERN Stack | Data Structures & Algorithms**
 - 👨‍💻 My projects are available on **[GitHub](https://github.com/Medhilesh?tab=repositories)**
-- 📫 Reach me at **anthatimedhilesh@gmail.com**
-
+- 📫 Reach me at -**anthatimedhilesh@gmail.com**
+                  -**https://www.linkedin.com/in/medhileshanthati/**
 ---
 
 ### 🛠️ Tech Stack & Tools:
