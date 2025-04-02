@@ -1,8 +1,6 @@
 # Hi 👋, I'm Medhilesh Goud Anthati
 ### 🚀 A Passionate Full-Stack Developer & Problem Solver
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Hello-icon.png" width="100">
-
 ---
 
 ### 💡 About Me:
