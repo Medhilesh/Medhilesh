@@ -67,9 +67,9 @@ I'm always open to networking and collaborating on interesting projects! You can
 Check out my GitHub profile to see my activity and contributions:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Medhilesh&show_icons=true&theme=tokyonight" width="50%" />
+  <img src="https://camo.githubusercontent.com/67b0f0df8fd79b95a0ac7b57c207a7415f343825d9cf0b9ec771fdce63740eea/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d656468696c6573682673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" width="50%" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Roh1121&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Medhilesh&theme=dark&hide_border=false" />
 </p>
 
 ---
