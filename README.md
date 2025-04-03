@@ -6,11 +6,11 @@
 ### 💡 About Me:
 I am a dedicated Full-Stack Developer with a passion for building scalable, efficient, and user-friendly applications. I’m currently learning **Java** and **Web Development (MERN Stack)** to expand my technical horizons.
 
-- 🔭 **Current Project**: [Event Booking System](https://github.com/Medhilesh/Event_booking.git) (MERN Stack)
+- 🔝 **Current Project**: [Event Booking System](https://github.com/Medhilesh/Event_booking.git) (MERN Stack)
 - 🌱 **Learning**: **Java** and **Web Development** using **MERN Stack**
 - 💬 **Interested in**: Contributing to open-source, tackling real-world problems with code, and growing my knowledge in Data Structures & Algorithms
 - 👨‍💻 **Explore my Projects**: [My GitHub](https://github.com/Medhilesh?tab=repositories)
-- 📫 **Contact Me**: [anthatimedhilesh@gmail.com](mailto:anthatimedhilesh@gmail.com)
+- 📧 **Contact Me**: [anthatimedhilesh@gmail.com](mailto:anthatimedhilesh@gmail.com)
 
 ---
 
@@ -67,9 +67,9 @@ I'm always open to networking and collaborating on interesting projects! You can
 Check out my GitHub profile to see my activity and contributions:
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/67b0f0df8fd79b95a0ac7b57c207a7415f343825d9cf0b9ec771fdce63740eea/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d656468696c6573682673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Medhilesh&show_icons=true&theme=tokyonight" width="50%" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Medhilesh&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medhilesh&theme=tokyonight" width="50%" />
 </p>
 
 ---
@@ -86,3 +86,4 @@ As a developer, I strive to create value by solving real-world problems with cod
 ---
 
 **✨ Let's build something amazing together! ✨**
+
